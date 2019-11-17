@@ -9,5 +9,5 @@ HTML and CSS was used to create webpage. Javascript was used for DOM manipulatio
 ## Lessons Learned
 Always make multiple copies and use different file names. If not, you may inadvertanly delete or replace the specific files/folder you want the way that I did. Always make multiple copies and store it in different locations lke on github and a flashdrive.
 
-***Credit***
+***Credit:***
 Big thank you to Kaniah for her assistance after I foolishly deleted all my code, resulting in having to do it all over again.
