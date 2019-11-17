@@ -18,3 +18,6 @@ btn.addEventListener('click', () => {
   let input = document.querySelector('.input').value
   palindrome(input);
 })
+
+
+// Thank you so much for your help Kaniah
